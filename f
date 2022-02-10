@@ -1,1 +1,3 @@
-added some detail here on this commit
+line change here
+
+added some more and changed line 1
